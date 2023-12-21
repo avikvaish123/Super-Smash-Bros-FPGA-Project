@@ -11,10 +11,13 @@ incremental_db
 output_files/
 RemoteSystemsTempFiles/
 simulation/
-software/
 *.qsf
 *.qsys
 *.sopcinfo
 *.qws
 Super-Smash-Bros-FPGA-Project/
+*.a
+*.o
+*.d
+*.settings/
 
